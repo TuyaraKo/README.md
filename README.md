@@ -23,3 +23,6 @@
 - - Ссылка на проект: https://github.com/Skypro-portfolio/Example/tree/main/Project_1
 - Проект 2: Описание проекта
 - - Ссылка на проект: {link_to_project}
+
+## Контактная информация:
+e-mail: sidorova2yara@gmail.com
