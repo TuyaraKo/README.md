@@ -25,4 +25,4 @@
 - - Ссылка на проект: https://github.com/
 
 ## Контактная информация:
-электронная почта:  < sidorova2yara2gmail.com >
+электронная почта:  < sidorova2yara@gmail.com>
